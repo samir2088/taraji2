@@ -6,10 +6,10 @@
 		"tabs": [
 
 			{
-				"title": "Esperanza",
+				"title": "Fédération Tunisienne",
 				"provider": "youtube",
 				"arguments": [
-					"UCHc8oT87O7lZUrFsORkAFlw",
+					"UCgcFZxGk-zLhkT5a_qPz3PA",
 					"channel"
 
 				]
@@ -24,11 +24,20 @@
 				]
 			},
 			{
-				"title": "Taraji",
+				"title": "TN Sport HD",
 				"provider": "youtube",
 				"arguments": [
-					"PLj4k1NrtWk2_MmflxFyaopLdsks6_16gX",
-					"playlist"
+					"UCshowwqv0gW1PMWi9ArLEvQ",
+					"channel"
+
+				]
+			},
+			{
+				"title": "Silver Stadium",
+				"provider": "youtube",
+				"arguments": [
+					"UCn9v2pXoSpz-4LUln8aGCig",
+					"channel"
 
 				]
 			},
@@ -50,7 +59,15 @@
 
 				]
 			},
-			
+			{
+				"title": "الترجي الرياضي",
+				"provider": "youtube",
+				"arguments": [
+					"UCBIcWWvrXv-Vx2VMKavoG_A",
+					"channel"
+
+				]
+			},
 			{
 				"title": "Sports",
 				"provider": "youtube",
@@ -61,7 +78,6 @@
 				]
 			},
 			
-
 			{
 				"title": "الدوري التونسي",
 				"provider": "youtube",
